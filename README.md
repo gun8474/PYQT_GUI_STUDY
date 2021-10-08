@@ -1,0 +1,2 @@
+# PYQT_GUI_STUDY
+PYQT 스터디 내용
